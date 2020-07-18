@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="img008" size="10.000000 14.355759" />
+    <ImageTarget name="Full" size="10.000000 20.000000" />
+    <ImageTarget name="lapiz_mongol" size="10.000000 10.000000" />
+    <ImageTarget name="pattern" size="10.000000 10.031546" />
+  </Tracking>
+</QCARConfig>
